@@ -2,7 +2,7 @@
 
 ## pwd
 
-We can call the `pwd` command when we want to look _working directory_. This command print the users's working directory.
+We can call the `pwd` command when we want to look _working directory_. This command print the users' working directory.
 
 ```bash
 pwd
@@ -11,7 +11,7 @@ pwd
 
 ## ls
 
-`ls` lists the contents of the current directory. It can be used with -a flag when it is wanted to list hidden files.
+`ls` lists the contents of the current directory. It can be used with a -a flag when it is wanted to list hidden files.
 
 ```bash
 ls
@@ -27,10 +27,10 @@ ls -a
 
 ## cd
 
-User can change directory with `cd` command.
+Users can change the directory with the `cd` command.
 
 ```bash
 cd directoryName
 ```
 
-Also `cd ..` command change directory to parent directory.
+Also `cd ..` command changes directory to parent directory.
